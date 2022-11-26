@@ -1,7 +1,0 @@
-title: Тест
-href: index.yaml
-items:
-- name: Пробую писать
-  href: pages/index.md
-- name: Пробую писать второй раздел
-  href: pages2/index.md
